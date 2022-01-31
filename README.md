@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Tony</h1>
 <h3 align="center">An Android developer</h3>
 
