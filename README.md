@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonyawino" alt="tonyawino" /></a> </p>
 
-- 🌱 I’m currently learning **React, and FastAPI**
-
 - 💬 Ask me about **Kotlin, Java, and Android**
 
 <h3 align="left">Connect with me:</h3>
